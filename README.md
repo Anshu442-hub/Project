@@ -88,7 +88,7 @@ ii) Balsamiq cloud tool to design wireframe of pages
 - **Added rows and columns**
 ![TableCreated](https://user-images.githubusercontent.com/78681091/156497882-cde1fe36-d212-4ab1-b5a4-5a35d5b7897c.jpeg)
 - **Table view**
-![TableView](https://user-images.githubusercontent.com/78681091/156497954-d7bad35d-76ec-4d2f-b42c-1158650767bc.jpeg)
+![TableView](https://https://github.com/Anshu442-hub/Project/blob/main/images/acc.jpg)
 
 ## Contributors
 - [Anshu Kumari](https://github.com/Anshu442-hub)
